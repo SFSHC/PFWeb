@@ -4,4 +4,4 @@
 # 使用方法
 
 ```bash
-wget -qO- https://fly.cnavd.us.kg/https://github.com/SFSHC/PFWeb/releases/download/beta/web.sh | bash
+curl -s https://fly.cnavd.us.kg/https://github.com/SFSHC/PFWeb/releases/download/beta/web.sh | bash
