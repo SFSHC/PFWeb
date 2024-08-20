@@ -4,4 +4,4 @@
 # 使用方法
 
 ```bash
-curl -L -o web.sh https://github.com/SFSHC/PFWeb/releases/download/beta/web.sh && bash web.sh
+curl -L -o web.sh https://fly.cnavd.us.kg/https://github.com/SFSHC/PFWeb/releases/download/beta/web.sh && bash web.sh
